@@ -30,10 +30,10 @@
 ![게임시작](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EC%8B%9C%EC%9E%91.gif)
 #### 게임 종료
 ![게임종료](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%81%9D.gif)
-#### 스킬은 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
-#### 아이템은 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
+#### 스킬은 [여기](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
+#### 아이템은 [여기](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
 
-#### 더 자세한 정보는 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/tree/master/%EC%82%B0%EC%B6%9C%EB%AC%BC)에서!
+#### 더 자세한 정보는 [여기](https://github.com/StrongGwak/YouCanRun/tree/main/%EC%82%B0%EC%B6%9C%EB%AC%BC)에서!
 
 ---
 
@@ -52,11 +52,11 @@
 - Google Drive
 
 ## 요구사항 정의서
-![image](/uploads/34b62a1344a6d581fe783033f6cfc1e1/image.png)
-![image](/uploads/535b1ca6f06369a384e04826bceb0f17/image.png)
+![image](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C1.png)
+![image](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C.png)
 
 ## ER Diagram
-![image](/uploads/ec0b12d45179b250f5811e79a63afa76/image.png)
+![image](https://github.com/StrongGwak/YouCanRun/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/ERD.png)
 
 ## 팀원 역할
 1. 곽강한 (팀장) : 게임 제작 총괄, 캐릭터 스킬 제작, 캐릭터 이동 및 기능 구현, Photon 캐릭터 연결 구성, 애니메이션 관리, 게임 전반 기능 구성
