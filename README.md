@@ -1,7 +1,7 @@
 # YOU CAN' RUN
 - 단순한 레이싱 게임은 이제 식상하시죠? 상대방을 방해하면서 게임을 즐겨보세요!
 ## 빌드 파일 다운로드
-https://drive.google.com/drive/folders/1fgNxA-SIlu21X3cxYU2rb8xJoyRUSjQ9?usp=sharing
+https://drive.google.com/file/d/17KOWqcK3s12SuRocOoNZLSP2vixq52Wd/view?usp=drive_link
 ## 소개 및 시연 영상
 https://www.youtube.com/watch?v=jMLmCj-o7fY
 ## 개요
