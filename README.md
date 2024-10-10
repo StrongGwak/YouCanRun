@@ -3,6 +3,8 @@
 ## 빌드 파일 다운로드
 https://drive.google.com/file/d/17KOWqcK3s12SuRocOoNZLSP2vixq52Wd/view?usp=drive_link
 ## 소개 및 시연 영상
+[![Video Label](http://img.youtube.com/vi/jMLmCj-o7fY/0.jpg)](https://www.youtube.com/watch?v=jMLmCj-o7fY)
+
 https://www.youtube.com/watch?v=jMLmCj-o7fY
 ## 개요
 친구들과 함께 즐기는 '메타버스 레이싱'! 친구들을 방해하며 먼저 결승점에 도달하세요
