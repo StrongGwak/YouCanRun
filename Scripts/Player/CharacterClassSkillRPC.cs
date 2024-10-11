@@ -265,14 +265,9 @@ public class CharacterClassSkillRPC : MonoBehaviour
     [PunRPC]
     public void UseThunderRPC()
     {
-        // 번개 파티클 본인 캐릭터 위치에 생성
-        //PhotonView myPV=GetComponent<PhotonView>();
-        //if (myPV.IsMine)
-        //{
-            effect = Resources.Load("Effects/Lightning Strike") as GameObject;  // Resources 폴더 안에서 호출
-            Instantiate(effect, transform); // 파티클 생성
-            PlaySound("Thunder", 40f);
-        //}
+        effect = Resources.Load("Effects/Lightning Strike") as GameObject;  // Resources 폴더 안에서 호출
+        Instantiate(effect, transform); // 파티클 생성
+        PlaySound("Thunder", 40f);
     }
 
     public void SkillThunder()
@@ -284,10 +279,8 @@ public class CharacterClassSkillRPC : MonoBehaviour
             foreach (Collider col in colliders)
             {
                 AroundPV = col.transform.parent.GetComponent<PhotonView>();
-                if (!AroundPV.IsMine && AroundPV != myPV)
+                if (AroundPV.IsMine && AroundPV != myPV)
                 {
-                    //Debug.Log(AroundPV.Owner.NickName);
-                    //Debug.Log(AroundPV.IsMine);
                     AroundPV.RPC("SkillThunderRPC", RpcTarget.All);
                 }
 
